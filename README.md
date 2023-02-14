@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision & NLP**
 
-- 🌱 I’m currently learning **Web Development**
-
-- 🤝 I’m looking for help with **Research Scholars**
-
-- 📫 How to reach me **pradeepkrishna232@gmail.com**
+- 📫 reach me **pradeepkrishna232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
